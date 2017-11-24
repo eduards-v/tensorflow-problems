@@ -1,6 +1,7 @@
 # Custom ignores
 /MNIST_data/
 /MNIST_data/*
+/models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
